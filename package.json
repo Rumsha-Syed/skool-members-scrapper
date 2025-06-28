@@ -1,0 +1,10 @@
+{
+  "name": "skool-members-scraper",
+  "version": "0.1.0",
+  "dependencies": {
+    "apify": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
