@@ -2,6 +2,7 @@
   "name": "skool-members-scraper",
   "version": "0.1",
   "buildTag": "latest",
+  "dockerImage": "apify/actor-node-puppeteer-chrome",
   "env": null,
   "defaultRunOptions": {
     "build": "latest",
